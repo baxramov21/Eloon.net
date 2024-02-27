@@ -1,0 +1,135 @@
+{
+  "project_info": {
+    "project_number": "1004478796733",
+    "firebase_url": "https://general-74683-default-rtdb.firebaseio.com",
+    "project_id": "general-74683",
+    "storage_bucket": "general-74683.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1004478796733:android:47e8d36aa8c12cf02fb8d4",
+        "android_client_info": {
+          "package_name": "com.baxramov.eloonnet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1004478796733-a5s19uerfbvjnrv5ag07rfqlqpq0unin.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNVtNmyBjpSWx0z55MWf_E0b7xZFrZp8w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1004478796733-a5s19uerfbvjnrv5ag07rfqlqpq0unin.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1004478796733:android:361f5d7fcd8d9e0f2fb8d4",
+        "android_client_info": {
+          "package_name": "com.sheikh.realtimedatabase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1004478796733-a5s19uerfbvjnrv5ag07rfqlqpq0unin.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNVtNmyBjpSWx0z55MWf_E0b7xZFrZp8w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1004478796733-a5s19uerfbvjnrv5ag07rfqlqpq0unin.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1004478796733:android:2cdeebc4c92c80fa2fb8d4",
+        "android_client_info": {
+          "package_name": "com.sheikh.telegram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1004478796733-q4fipig0bn28a6ngfrm6hj1bjq8h32o4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sheikh.telegram",
+            "certificate_hash": "4d034a6bd8c0e1c2598fb83aeb294c548c93c5c7"
+          }
+        },
+        {
+          "client_id": "1004478796733-a5s19uerfbvjnrv5ag07rfqlqpq0unin.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNVtNmyBjpSWx0z55MWf_E0b7xZFrZp8w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1004478796733-a5s19uerfbvjnrv5ag07rfqlqpq0unin.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1004478796733:android:6fba12b182f0682d2fb8d4",
+        "android_client_info": {
+          "package_name": "com.template"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1004478796733-a5s19uerfbvjnrv5ag07rfqlqpq0unin.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNVtNmyBjpSWx0z55MWf_E0b7xZFrZp8w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1004478796733-a5s19uerfbvjnrv5ag07rfqlqpq0unin.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
